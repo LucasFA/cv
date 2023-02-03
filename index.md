@@ -55,5 +55,5 @@ Certificados en LinkedIn:
 - C++
 
 <footer>
-Currículum disponible en: https://lucasfa.github.io/cv/
+Currículum disponible en: [https://lucasfa.github.io/cv/](https://lucasfa.github.io/cv/)
 </footer>
