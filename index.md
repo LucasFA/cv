@@ -11,7 +11,7 @@ Enlaces: <span>
 | <a href="https://www.linkedin.com/in/lucas-f-80a8b213a/">LinkedIn</a>
 </span>
 
-Fecha de nacimiento: 09/12/2000
+Fecha de nacimiento: 09/12/2000. 679 843 745
 
 
 ## Educación
@@ -47,6 +47,7 @@ MOOC de Machine Learning y Big Data para la bioinformática, impartido por la Un
 - LaTeX
 - Octave
 - SQL - nivel de usuario
+- Carnet de conducir B
 Certificados en LinkedIn:
 - Python
 - Git
