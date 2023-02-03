@@ -11,7 +11,7 @@ Enlaces: <span>
 | <a href="https://www.linkedin.com/in/lucas-f-80a8b213a/">LinkedIn</a>
 </span>
 
-09/12/2000 | +34 679 843 745
+<span>09/12/2000 | +34 679 843 745 </span>
 
 ## Educación
 
