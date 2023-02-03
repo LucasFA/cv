@@ -1,12 +1,11 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: CV
 ---
 # Lucas Fehlau Arbulu
 Estudiante de Matemáticas en la Universidad de Granada
 
 Enlaces:
-
 <div>
 | <a href="lucasfa@correo.ugr.es">lucasfa@correo.ugr.es</a>
 | <a href="https://github.com/LucasFA">Github</a>
