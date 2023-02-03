@@ -42,12 +42,21 @@ MOOC de Machine Learning y Big Data para la bioinformática, impartido por la Un
 - Inglés: C2
 - Alemán: Básico
 
+## Otros conocimientos
+- LaTeX
+- Octave
+- SQL - nivel de usuario
+Certificados en LinkedIn:
+- Git
+- Rust
+- C++
 <!-- 
 ### Programming Languages
 - R
 - Python
 - TypeScript 
-- Rust (beginner) -->
+- Rust (beginner) 
+-->
 
 
 <!-- ### Footer
