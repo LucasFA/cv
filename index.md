@@ -5,16 +5,11 @@ title: Isaac Newtons's CV
 # Lucas Fehlau Arbulu
 Estudiante de Matemáticas en la Universidad de Granada
 
-<div id="webaddress">
+Enlaces: <div id="webaddress">
 | <a href="lucasfa@correo.ugr.es">lucasfa@correo.ugr.es</a>
-| <a href="https://github.com/LucasFA">LucasFA in 
-    <a class="social mx-1" href="https://www.github.com/LucasFA">
-          <i class="fab fa-github fa-1x"></i>
-        </a>
-    </a>
-| <a href="https://www.linkedin.com/in/lucas-f-80a8b213a/">My LinkedIn</a>
+| <a href="https://github.com/LucasFA">Github</a>
+| <a href="https://www.linkedin.com/in/lucas-f-80a8b213a/">LinkedIn</a>
 </div>
-
 
 
 ## Educación
@@ -22,18 +17,20 @@ Estudiante de Matemáticas en la Universidad de Granada
 `2018 - now`
 __Grado en Matemáticas, UGR__
 
-## Personal Projects
+## Proyectos personales
 
-### Data Science
+### Análisis de datos
 
+[DataScience](https://github.com/LucasFA/DataScience)
 
-## Languages
+## Otros proyectos
 
+<!-- 
 ### Programming Languages
 - R
 - Python
 - TypeScript 
-- Rust (beginner)
+- Rust (beginner) -->
 
 
 <!-- ### Footer
