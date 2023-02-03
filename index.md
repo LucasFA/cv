@@ -48,7 +48,7 @@ MOOC de Machine Learning y Big Data para la bioinformática, impartido por la Un
 - SQL - nivel de usuario
 - Carnet de conducir B
 
-Certificados en LinkedIn:
+### Certificados en LinkedIn:
 - Python
 - Git
 - Rust
