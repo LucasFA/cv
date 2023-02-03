@@ -15,7 +15,7 @@ Enlaces: <span>
 ## Educación
 
 `2018 - now`
-__Grado en Matemáticas, UGR__
+__Estudiante del Grado en Matemáticas, UGR__
 
 ## Proyectos personales
 
