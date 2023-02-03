@@ -1,7 +1,6 @@
 ---
 layout: cv
 title: Isaac Newtons's CV
-style: davewhipp
 ---
 # Lucas Fehlau Arbulu
 Lorem Ipsum dolor sit Amet
