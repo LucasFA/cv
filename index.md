@@ -13,7 +13,6 @@ Enlaces: <span>
 
 09/12/2000 | +34 679 843 745
 
-
 ## Educación
 
 `2018 - now`
@@ -40,7 +39,7 @@ MOOC de Machine Learning y Big Data para la bioinformática, impartido por la Un
 
 ## Idiomas
 - Español: Nativo
-- Inglés: C2
+- Inglés: C2 (Cambridge English Advanced)
 - Alemán: Básico
 
 ## Otros conocimientos
