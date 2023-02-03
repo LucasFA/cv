@@ -55,5 +55,5 @@ MOOC de Machine Learning y Big Data para la bioinformática, impartido por la Un
 - C++
 
 <footer>
-Currículum disponible en: [https://lucasfa.github.io/cv/](https://lucasfa.github.io/cv/)
+Currículum disponible en: <a href="https://lucasfa.github.io/cv/">lucasfa.github.io/cv/</a>
 </footer>
