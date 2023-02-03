@@ -11,7 +11,6 @@ Enlaces: <span>
 | <a href="https://www.linkedin.com/in/lucas-f-80a8b213a/">LinkedIn</a>
 </span>
 
-## Datos personales
 Fecha de nacimiento: 09/12/2000
 
 
