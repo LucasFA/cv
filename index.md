@@ -34,6 +34,9 @@ __Estudiante del Grado en Matemáticas, UGR__
 
 [Retos de programación en Python](https://github.com/LucasFA/Googlefoobar) de Google Foobar, resueltos.
 
+### Asignaturas
+[EC](https://github.com/LucasFA/EC) y [EC-1](https://github.com/LucasFA/EC-I), repositorios de prácticas de Estadística Computacional y Estadística Computacional I, impartidas en la UGR. En ambos repositorios se encuentran ejercicios resueltos en R.
+
 ## Cursos
 MOOC de Machine Learning y Big Data para la bioinformática, impartido por la Universidad de Granada.
 
