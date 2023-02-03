@@ -49,17 +49,10 @@ MOOC de Machine Learning y Big Data para la bioinformática, impartido por la Un
 - Octave
 - SQL - nivel de usuario
 Certificados en LinkedIn:
+- Python
 - Git
 - Rust
 - C++
-<!-- 
-### Programming Languages
-- R
-- Python
-- TypeScript 
-- Rust (beginner) 
--->
-
 
 <!-- ### Footer
 
