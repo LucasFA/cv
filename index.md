@@ -54,6 +54,6 @@ Certificados en LinkedIn:
 - Rust
 - C++
 
-### Footer
-
+<footer>
 Currículum disponible en: https://lucasfa.github.io/cv/
+</footer>
