@@ -24,9 +24,9 @@ __Estudiante del Grado en Matemáticas, UGR__
 
 ### Análisis de datos
 
-<a href="https://github.com/LucasFA/DataScience">LucasFA/DataScience</a>, análisis de datos en R y en Python: una regresión logarítmica y un predictor binario con datos tabulares utilizando XGBoost.
-
 <a href="https://github.com/LucasFA/EMV/blob/main/Pr%C3%A1cticafinal/pr%C3%A1ctica.md">Práctica final de Estadística Multivariante</a>. Un análisis predictorio en R sobre diabetes, haciendo un análisis factorial exploratorio, seguido de la creación de modelos de clasificación con fiabilidad medida por validación cruzada. También se aplicaron transformaciones de datos para aproximar una distribución normal.
+
+<a href="https://github.com/LucasFA/DataScience">LucasFA/DataScience</a>, análisis de datos en R y en Python: una regresión logarítmica y un predictor binario con datos tabulares utilizando XGBoost.
 
 ## Otros proyectos
 
