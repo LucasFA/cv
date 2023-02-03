@@ -3,7 +3,7 @@ layout: cv
 title: Isaac Newtons's CV
 ---
 # Lucas Fehlau Arbulu
-Lorem Ipsum dolor sit Amet
+Estudiante de Matemáticas en la Universidad de Granada
 
 <div id="webaddress">
 | <a href="lucasfa@correo.ugr.es">lucasfa@correo.ugr.es</a>
