@@ -43,9 +43,9 @@ MOOC de Machine Learning y Big Data para la bioinformática, impartido por la Un
 - Alemán: Básico
 
 ## Otros conocimientos
+- SQL - nivel de usuario
 - LaTeX
 - Octave
-- SQL - nivel de usuario
 - Carnet de conducir B
 
 ### Certificados en LinkedIn:
