@@ -1,5 +1,5 @@
 ---
-layout: cv
+layout: kjhealy
 title: Isaac Newtons's CV
 ---
 # Lucas Fehlau Arbulu
@@ -17,7 +17,7 @@ Lorem Ipsum dolor sit Amet
 
 
 
-## Education
+## Educación
 
 `2018 - now`
 __Grado en Matemáticas, UGR__
