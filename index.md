@@ -48,14 +48,13 @@ MOOC de Machine Learning y Big Data para la bioinformática, impartido por la Un
 - Octave
 - SQL - nivel de usuario
 - Carnet de conducir B
+
 Certificados en LinkedIn:
 - Python
 - Git
 - Rust
 - C++
 
-<!-- ### Footer
+### Footer
 
-Last updated: May 2013 -->
-
-
+Currículum disponible en: https://lucasfa.github.io/cv/
