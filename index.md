@@ -3,8 +3,6 @@ layout: cv
 title: Isaac Newtons's CV
 ---
 # Lucas Fehlau Arbulu
-Physicist, Mathematician, Cambridge professor.
-
 <div id="webaddress">
 | <a href="lucasfa@correo.ugr.es">lucasfa@correo.ugr.es</a>
 | <a href="https://github.com/LucasFA">LucasFA in GitHub</a>
