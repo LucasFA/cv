@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Lucas Fehlau Arbulu's CV
 ---
 # Lucas Fehlau Arbulu
 <div id="webaddress">
